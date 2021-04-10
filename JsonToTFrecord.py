@@ -11,7 +11,6 @@ import PIL
 import hashlib
 import random
 
-
 parser = argparse.ArgumentParser()
 parser.add_argument('--ImgInputDir', type = pathlib.Path)
 parser.add_argument('--JsonFile', type = pathlib.Path)
