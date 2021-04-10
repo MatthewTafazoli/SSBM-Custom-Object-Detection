@@ -11,6 +11,7 @@ import PIL
 import hashlib
 import random
 
+"Testing"
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--ImgInputDir', type = pathlib.Path)
