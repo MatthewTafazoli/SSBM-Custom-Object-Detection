@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# training images
+TFRecords/
+ImageFolders/
+VideoFolder/
+models/
+TestImages/
+JsonFiles/
+my_model/saved_model/train/

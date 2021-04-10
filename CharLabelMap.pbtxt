@@ -1,0 +1,19 @@
+item {
+id: 1
+name: 'Peach'
+}
+
+item {
+ id: 2
+ name: 'Fox'
+}
+
+item {
+ id: 3
+ name: 'Falco'
+}
+
+item {
+  id: 4
+  name: 'Sheik'
+}
